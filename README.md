@@ -26,9 +26,6 @@ A simple **Bank Management System built using Python** to simulate basic banking
 This project was developed as a **Python practice project** to understand how programming concepts can be combined to build a real-world application.
 
 ## 📌 Future Improvements
-
-* Add a graphical user interface (GUI)
-* Add PIN/password authentication
 * Use SQLite/MySQL database
 * Add transaction history
 * Improve security and data validation
